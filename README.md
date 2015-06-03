@@ -13,11 +13,11 @@ Modules
 ######Find out more about Drupal in the file: [README.txt](README.txt)
 
 ####Access:
-DB Name: unittest</br>
-DB User: epicodus</br>
-DB Pass: epicodus</br>
-Drupal Admin: epicodus</br>
-Drupal Admin Pass: epicodus</br>
+DB Name: chia</br>
+DB User: chia</br>
+DB Pass: chia</br>
+Drupal Admin: chia</br>
+Drupal Admin Pass: chia</br>
 
 ###License
 
