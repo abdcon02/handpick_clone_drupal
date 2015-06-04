@@ -1,0 +1,5 @@
+name = Recipes Module
+description = loads recipes with Ajax
+package = Brett and Connor's Examples
+core = 7.x
+files[] = recipes.module

@@ -9,6 +9,16 @@ A clone of [handpick.com](http://www.handpick.com).</br>
 
 Modules
 * Parallax Background
+* Ctools
+* Block Group
+* Views
+* Panels
+
+Custom Modules
+* Recipe Module - Using ajax to display recipes on the page
+
+Themes
+* Zen Subtheme
 
 ######Find out more about Drupal in the file: [README.txt](README.txt)
 
